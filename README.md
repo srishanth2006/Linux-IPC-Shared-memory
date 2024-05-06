@@ -53,7 +53,6 @@ int main()
 
 ## OUTPUT
 <img width="399" alt="image" src="https://github.com/srishanth2006/Linux-IPC-Shared-memory/assets/150319470/e6a1b664-dc88-4415-877a-1fd33d420123">
-
 <img width="479" alt="image" src="https://github.com/srishanth2006/Linux-IPC-Shared-memory/assets/150319470/e423ed70-8cca-4e93-9cb4-b4b6a8401dce">
 
 # RESULT:
