@@ -145,7 +145,7 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ### ipcs
 
 ## OUTPUT
-![Uploading image.png…]()
+<img width="397" alt="image" src="https://github.com/srishanth2006/Linux-IPC-Shared-memory/assets/150319470/a290275b-4aa8-4bf9-884d-2cbf8ebbca99">
 
 
 # RESULT:
